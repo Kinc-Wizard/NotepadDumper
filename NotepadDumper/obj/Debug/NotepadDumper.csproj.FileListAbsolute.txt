@@ -1,0 +1,8 @@
+C:\Users\admin\Documents\NotepadDumper\NotepadDumper\bin\Debug\NotepadDumper.exe.config
+C:\Users\admin\Documents\NotepadDumper\NotepadDumper\bin\Debug\NotepadDumper.exe
+C:\Users\admin\Documents\NotepadDumper\NotepadDumper\bin\Debug\NotepadDumper.pdb
+C:\Users\admin\Documents\NotepadDumper\NotepadDumper\obj\Debug\NotepadDumper.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\NotepadDumper\NotepadDumper\obj\Debug\NotepadDumper.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\NotepadDumper\NotepadDumper\obj\Debug\NotepadDumper.exe
+C:\Users\admin\Documents\NotepadDumper\NotepadDumper\obj\Debug\NotepadDumper.pdb
+C:\Users\admin\Documents\NotepadDumper\NotepadDumper\obj\Debug\NotepadDumper.exe.config
